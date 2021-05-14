@@ -1,7 +1,7 @@
 url: https://pleroma.boba.best
-status: up
-code: 200
-responseTime: 1004
-lastUpdated: 2021-05-14T04:00:20.464Z
+status: down
+code: 502
+responseTime: 680
+lastUpdated: 2021-05-14T13:40:17.890Z
 startTime: Wed Apr 28 2021 23:14:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
