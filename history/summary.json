@@ -4,9 +4,9 @@
     "url": "https://boba.best",
     "icon": "https://favicons.githubusercontent.com/boba.best",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1319,
     "timeYear": 1319,
     "dailyMinutesDown": {
+      "2021-05-26": 0,
       "2021-05-09": 4,
       "2021-05-08": 4,
       "2021-04-29": 5
@@ -26,9 +27,9 @@
     "url": "https://git.boba.best",
     "icon": "https://favicons.githubusercontent.com/git.boba.best",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,16 +38,18 @@
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   },
   {
     "name": "Drone CI",
     "url": "https://drone.boba.best",
     "icon": "https://favicons.githubusercontent.com/drone.boba.best",
     "slug": "drone-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +58,18 @@
     "timeWeek": 844,
     "timeMonth": 844,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   },
   {
     "name": "Mail",
     "url": "https://mail.boba.best",
     "icon": "https://favicons.githubusercontent.com/mail.boba.best",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -74,6 +79,7 @@
     "timeMonth": 799,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2021-05-26": 0,
       "2021-05-25": 5
     }
   },
@@ -83,18 +89,18 @@
     "icon": "https://favicons.githubusercontent.com/peertube.boba.best",
     "slug": "peer-tube",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 863,
     "timeDay": 663,
     "timeWeek": 632,
     "timeMonth": 863,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2021-05-26": 0,
+      "2021-05-26": 4,
       "2021-05-12": 1,
       "2021-05-09": 3,
       "2021-05-08": 5,
@@ -107,9 +113,9 @@
     "url": "https://pleroma.boba.best",
     "icon": "https://favicons.githubusercontent.com/pleroma.boba.best",
     "slug": "pleroma",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.73%",
@@ -119,6 +125,7 @@
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2021-05-26": 0,
       "2021-05-14": 480,
       "2021-05-12": 1,
       "2021-05-06": 5,
@@ -131,17 +138,19 @@
     "url": "https://vault.boba.best",
     "icon": "https://favicons.githubusercontent.com/vault.boba.best",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 494,
     "timeDay": 494,
     "timeWeek": 494,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   }
 ]
